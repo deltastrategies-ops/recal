@@ -27,7 +27,8 @@
 		"pt-br": "Português (Brasil)",
 		"sl": "Slovenščina",
 		"sv": "Svenska",
-		"tr": "Türkçe"
+		"tr": "Türkçe",
+		"ja": "日本語"
 	},
 	"configuration": {
 		"selector": {

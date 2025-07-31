@@ -1,0 +1,28 @@
+{
+	"calendar": {
+		"header": {
+			"week-number": "W#",
+			"retrospective": "Re"
+		},
+		"body": {
+			"retrospective": "R"
+		}
+	},
+	"page": {
+		"month": {
+			"habits": {
+				"title": "習慣"
+			}
+		},
+		"week": {
+			"title": "概"
+		},
+		"retrospective": {
+			"title": "今週の概要"
+		},
+		"last": {
+			"title": "<ReCalendarで>https://recalendar.me/</ReCalendarで>ジェネレートしました！",
+			"subtitle": "ReCalendarで、このPDFを載せたら、このカレンダーのコンフィグを読み込んで改めて新年の新しいカレンダーが作れます！因みに、機器でCJKの字が見えないなら、<このリンクを>https://gist.github.com/chenhunghan/b9dbb6ad4095fa12c31838784c26073d</このリンクを>利用するのが便利かもしれません。"
+		}
+	}
+}

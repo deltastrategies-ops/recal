@@ -62,7 +62,9 @@ class Header extends React.PureComponent {
 			specialItem: {
 				fontSize: 10,
 				marginLeft: 5,
-				fontStyle: 'italic',
+// DEBUG: Disable italic here until we can figure out how to get around it. 
+				// fontStyle: 'italic', 
+				fontWeight: 'bold'
 			},
 		};
 
